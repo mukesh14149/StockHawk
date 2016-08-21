@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_change_units">وحدات التغيير</string>
+    <string name="action_settings">إعدادات</string>
+    <string name="add_stock_desc">إضافة أسهم</string>
+    <string name="content_test">بحث عن الأوراق المالية رمز</string>
+    <string name="loading">جار التحميل</string>
+    <string name="loading_desc">البيانات جلب من خوادم</string>
+    <string name="network_toast">اتصال إنترنت المطلوبة</string>
+    <string name="no_Stock">لا يوجد مخزون العثور على</string>
+    <string name="refresh_stock_desc">تحديث سوق الأوراق المالية</string>
+    <string name="stock_not_found">الأسهم لم يتم العثور على / خطأ</string>
+    <string name="stock_present">يتم حفظ هذه الأسهم بالفعل!</string>
+    <string name="symbol_search">رمز البحث</string>
+    <string name="widget_title">سوق اليوم</string>
+</resources>

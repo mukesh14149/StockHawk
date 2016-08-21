@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="action_change_units">बदलें इकाइयों</string>
+    <string name="symbol_search">प्रतीक खोज</string>
+    <string name="content_test">एक स्टॉक प्रतीक के लिए खोज</string>
+    <string name="widget_title">आज बाजार</string>
+    <string name="network_toast">इंटरनेट कनेक्शन की आवश्यकता</string>
+    <string name="add_stock_desc">शेयर जोड़े</string>
+    <string name="refresh_stock_desc">ताज़ा करे शेयर बाजार</string>
+    <string name="stock_not_found">स्टॉक नहीं मिला या समस्या हुई</string>
+    <string name="loading">प्रगति</string>
+    <string name="loading_desc">सर्वर से डेटा ला रहा है</string>
+    <string name="stock_present">यह शेयर पहले से ही मौजूद है!</string>
+    <string name="no_Stock">कोई शेयर नहीं पाए गए</string>
+    <string name="input_prefill" translatable="false"> </string>
+</resources>
